@@ -28,7 +28,7 @@ not need prior Python experience.
 | 3 | [Object-Oriented Programming](Advanced_Python_OOP.ipynb) | Classes, inheritance, polymorphism, MRO | Available |
 | 4 | [Functional Programming](Advanced_Python_FunctionalProgramming.ipynb) | Pure functions, map/filter/reduce, comprehensions | Available |
 | 5 | [Decorators](Advanced_Python_Decorators.ipynb) | Higher-order functions and decorators | Available |
-| 6 | Error Handling | Exceptions, `try`/`except`, `else`, `finally` | Coming soon |
+| 6 | [Error Handling](Advanced_Python_Error_Handling.ipynb) | Exceptions, `try`/`except`, `else`, `finally` | Available |
 
 More lessons, exercises, and projects will be added as the learning path grows.
 
