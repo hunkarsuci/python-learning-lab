@@ -4,7 +4,6 @@
 
 **Learn Python by reading, running, and changing real examples.**
 
-[![CI](https://github.com/hunkarsuci/python-learning-lab/actions/workflows/notebooks.yml/badge.svg)](https://github.com/hunkarsuci/python-learning-lab/actions/workflows/notebooks.yml)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/downloads/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
@@ -25,7 +24,7 @@ not need prior Python experience.
 | Order | Lesson | Topics | Status |
 | ---: | --- | --- | :---: |
 | 1 | [Python Basics](Python_Basics.ipynb) | Values, operators, strings, collections | Available |
-| 2 | Python Basics II | Control flow, loops, functions, scope | Coming soon |
+| 2 | [Python Basics II](Python_Basics_II.ipynb) | Control flow, loops, functions, scope | Available |
 | 3 | Object-Oriented Programming | Classes, inheritance, polymorphism, MRO | Coming soon |
 | 4 | Functional Programming | Pure functions, map/filter/reduce, comprehensions | Coming soon |
 | 5 | Decorators | Higher-order functions and decorators | Coming soon |
