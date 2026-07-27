@@ -1,10 +1,16 @@
+<div align="center">
+
 # Python Learning Lab
 
-[![Validate notebooks](https://github.com/hunkarsuci/python-learning-lab/actions/workflows/notebooks.yml/badge.svg)](https://github.com/hunkarsuci/python-learning-lab/actions/workflows/notebooks.yml)
+**Learn Python by reading, running, and changing real examples.**
+
+[![CI](https://github.com/hunkarsuci/python-learning-lab/actions/workflows/notebooks.yml/badge.svg)](https://github.com/hunkarsuci/python-learning-lab/actions/workflows/notebooks.yml)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/downloads/)
-[![Jupyter](https://img.shields.io/badge/Jupyter-Notebooks-F37626?logo=jupyter&logoColor=white)](https://jupyter.org/)
-[![License: MIT](https://img.shields.io/github/license/hunkarsuci/python-learning-lab)](LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/hunkarsuci/python-learning-lab?style=flat)](https://github.com/hunkarsuci/python-learning-lab/stargazers)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/hunkarsuci/python-learning-lab?style=flat&logo=github)](https://github.com/hunkarsuci/python-learning-lab/stargazers)
+
+</div>
 
 A growing, hands-on Python learning path built from scratch with Jupyter
 notebooks, practical examples, exercises, and projects—from fundamentals to
@@ -16,14 +22,14 @@ not need prior Python experience.
 
 ## Curriculum
 
-| Order | Notebook | Topics |
-| --- | --- | --- |
-| 1 | [Python Basics](https://github.com/hunkarsuci/python-learning-lab/blob/main/Python_Basics.ipynb) | Values, operators, strings, collections |
-| 2 | [Python Basics II](https://github.com/hunkarsuci/python-learning-lab/blob/main/Python_Basics_II.ipynb) | Control flow, loops, functions, scope |
-| 3 | [Object-Oriented Programming](https://github.com/hunkarsuci/python-learning-lab/blob/main/Advanced_Python_OOP.ipynb) | Classes, inheritance, polymorphism, MRO |
-| 4 | [Functional Programming](https://github.com/hunkarsuci/python-learning-lab/blob/main/Advanced_Python_FunctionalProgramming.ipynb) | Pure functions, map/filter/reduce, comprehensions |
-| 5 | [Decorators](https://github.com/hunkarsuci/python-learning-lab/blob/main/Advanced_Python_Decorators.ipynb) | Higher-order functions and decorators |
-| 6 | [Error Handling](https://github.com/hunkarsuci/python-learning-lab/blob/main/Advanced_Python_Error_Handling.ipynb) | Exceptions, `try`/`except`, `else`, `finally` |
+| Order | Lesson | Topics | Status |
+| ---: | --- | --- | :---: |
+| 1 | [Python Basics](Python_Basics.ipynb) | Values, operators, strings, collections | Available |
+| 2 | Python Basics II | Control flow, loops, functions, scope | Coming soon |
+| 3 | Object-Oriented Programming | Classes, inheritance, polymorphism, MRO | Coming soon |
+| 4 | Functional Programming | Pure functions, map/filter/reduce, comprehensions | Coming soon |
+| 5 | Decorators | Higher-order functions and decorators | Coming soon |
+| 6 | Error Handling | Exceptions, `try`/`except`, `else`, `finally` | Coming soon |
 
 More lessons, exercises, and projects will be added as the learning path grows.
 
@@ -54,7 +60,7 @@ jupyter lab
 Open the notebooks in curriculum order. Run cells one at a time and experiment
 with the examples. A few lessons intentionally request keyboard input.
 
-## Repository structure
+## Repository roadmap
 
 ```text
 python-learning-lab/
@@ -72,8 +78,8 @@ python-learning-lab/
 └── LICENSE
 ```
 
-Each lesson is a standalone notebook, so lessons can be added and released one
-at a time without publishing the entire course at once.
+Each lesson is a standalone notebook. Items shown above may be planned locally
+before they are released on GitHub.
 
 ## Repository checks
 
@@ -90,7 +96,7 @@ and pull request.
 ## Contributing
 
 Corrections, clearer explanations, exercises, and new examples are welcome.
-Read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a pull request.
+Open an issue or pull request with a focused improvement.
 
 ## License
 

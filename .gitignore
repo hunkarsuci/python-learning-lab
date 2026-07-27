@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Environments and secrets
+.venv/
+venv/
+.env
+.env.*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local course-maintenance utility
+/tools/prepare_notebooks.py
+
+# Editors and operating systems
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
