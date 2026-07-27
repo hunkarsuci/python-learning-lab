@@ -4,7 +4,7 @@
 
 **Learn Python by reading, running, and changing real examples.**
 
-[![CI](https://github.com/hunkarsuci/python-learning-lab/actions/workflows/notebooks.yml/badge.svg)](https://github.com/hunkarsuci/python-learning-lab/actions/workflows/notebooks.yml)
+[![CI](https://github.com/hunkarsuci/python-learning-lab/actions/workflows/notebooks.yml/badge.svg?branch=main)](https://github.com/hunkarsuci/python-learning-lab/actions/workflows/notebooks.yml?query=branch%3Amain)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/downloads/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
