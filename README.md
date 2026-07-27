@@ -4,6 +4,7 @@
 
 **Learn Python by reading, running, and changing real examples.**
 
+[![CI](https://github.com/hunkarsuci/python-learning-lab/actions/workflows/notebooks.yml/badge.svg)](https://github.com/hunkarsuci/python-learning-lab/actions/workflows/notebooks.yml)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/downloads/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
@@ -59,7 +60,7 @@ jupyter lab
 Open the notebooks in curriculum order. Run cells one at a time and experiment
 with the examples. A few lessons intentionally request keyboard input.
 
-## Repository roadmap
+## Repository structure
 
 ```text
 python-learning-lab/
@@ -77,8 +78,8 @@ python-learning-lab/
 └── LICENSE
 ```
 
-Each lesson is a standalone notebook. Items shown above may be planned locally
-before they are released on GitHub.
+Each lesson is a standalone notebook, making it easy to study the course in
+order or revisit an individual topic.
 
 ## Repository checks
 
@@ -95,7 +96,9 @@ and pull request.
 ## Contributing
 
 Corrections, clearer explanations, exercises, and new examples are welcome.
-Open an issue or pull request with a focused improvement.
+Read [CONTRIBUTING.md](CONTRIBUTING.md), then open an issue or pull request with
+a focused improvement. All participation follows our
+[Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## License
 
