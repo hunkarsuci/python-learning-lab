@@ -15,8 +15,6 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-          cache: "pip"
-          cache-dependency-path: requirements.txt
       - name: Compile validation tools
         run: python -m compileall -q tools
       - name: Test notebook structure and syntax
