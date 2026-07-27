@@ -27,7 +27,7 @@ not need prior Python experience.
 | 2 | [Python Basics II](Python_Basics_II.ipynb) | Control flow, loops, functions, scope | Available |
 | 3 | [Object-Oriented Programming](Advanced_Python_OOP.ipynb) | Classes, inheritance, polymorphism, MRO | Available |
 | 4 | [Functional Programming](Advanced_Python_FunctionalProgramming.ipynb) | Pure functions, map/filter/reduce, comprehensions | Available |
-| 5 | Decorators | Higher-order functions and decorators | Coming soon |
+| 5 | [Decorators](Advanced_Python_Decorators.ipynb) | Higher-order functions and decorators | Available |
 | 6 | Error Handling | Exceptions, `try`/`except`, `else`, `finally` | Coming soon |
 
 More lessons, exercises, and projects will be added as the learning path grows.
