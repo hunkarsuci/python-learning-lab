@@ -12,7 +12,7 @@
 </div>
 
 A growing, hands-on Python learning path built from scratch with Jupyter
-notebooks, practical examples, exercises, and projects—from fundamentals to
+notebooks, practical examples, exercises, and projects from fundamentals to
 advanced Python development.
 
 The lessons favor short, runnable examples that you can change and explore.
@@ -25,7 +25,7 @@ not need prior Python experience.
 | ---: | --- | --- | :---: |
 | 1 | [Python Basics](Python_Basics.ipynb) | Values, operators, strings, collections | Available |
 | 2 | [Python Basics II](Python_Basics_II.ipynb) | Control flow, loops, functions, scope | Available |
-| 3 | Object-Oriented Programming | Classes, inheritance, polymorphism, MRO | Coming soon |
+| 3 | [Object-Oriented Programming](Advanced_Python_OOP.ipynb) | Classes, inheritance, polymorphism, MRO | Available |
 | 4 | Functional Programming | Pure functions, map/filter/reduce, comprehensions | Coming soon |
 | 5 | Decorators | Higher-order functions and decorators | Coming soon |
 | 6 | Error Handling | Exceptions, `try`/`except`, `else`, `finally` | Coming soon |
