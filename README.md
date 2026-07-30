@@ -30,6 +30,7 @@ not need prior Python experience.
 | 4 | [Functional Programming](Advanced_Python_FunctionalProgramming.ipynb) | Pure functions, map/filter/reduce, comprehensions | Available |
 | 5 | [Decorators](Advanced_Python_Decorators.ipynb) | Higher-order functions and decorators | Available |
 | 6 | [Error Handling](Advanced_Python_Error_Handling.ipynb) | Exceptions, `try`/`except`, `else`, `finally` | Available |
+| 7 | [Generators](Advanced_Python_Generators.ipynb) | Iterators, `yield`, generator functions, performance | Available |
 
 More lessons, exercises, and projects will be added as the learning path grows.
 
@@ -64,6 +65,7 @@ with the examples. A few lessons intentionally request keyboard input.
 
 ```text
 python-learning-lab/
+├── Advanced_Python_Generators.ipynb
 ├── Python_Basics.ipynb
 ├── Python_Basics_II.ipynb
 ├── Advanced_Python_OOP.ipynb
