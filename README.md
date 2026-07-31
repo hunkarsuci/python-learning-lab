@@ -31,6 +31,7 @@ not need prior Python experience.
 | 5 | [Decorators](Advanced_Python_Decorators.ipynb) | Higher-order functions and decorators | Available |
 | 6 | [Error Handling](Advanced_Python_Error_Handling.ipynb) | Exceptions, `try`/`except`, `else`, `finally` | Available |
 | 7 | [Generators](Advanced_Python_Generators.ipynb) | Iterators, `yield`, generator functions, performance | Available |
+| 8 | [Modules and Packages](Modules%20in%20Python/main.py) | Imports, modules, packages, and reusable functions | Available |
 
 More lessons, exercises, and projects will be added as the learning path grows.
 
@@ -72,6 +73,12 @@ python-learning-lab/
 ├── Advanced_Python_FunctionalProgramming.ipynb
 ├── Advanced_Python_Decorators.ipynb
 ├── Advanced_Python_Error_Handling.ipynb
+├── Modules in Python/
+│   ├── main.py
+│   ├── utility.py
+│   └── shopping/
+│       └── shopping_more/
+│           └── shopping_cart.py
 ├── tools/
 │   └── validate_notebooks.py
 ├── requirements.txt
