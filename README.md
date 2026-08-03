@@ -34,6 +34,7 @@ not need prior Python experience.
 | 8 | [Modules and Packages](Modules%20in%20Python/main.py) | Imports, modules, packages, and reusable functions | Available |
 | 9 | [File Input and Output](File_Input_and_Output/FileOpenClose.py) | Reading/writing files, `open`/`close`, `with`, error handling | Available |
 | 10 | [Regular Expressions](Regular_Expressions.ipynb) | `re` module, search/match/findall, patterns, validation | Available |
+| 11 | [Testing](Testing/main.py) | `unittest`, test cases, assertions, `setUp`/`tearDown` | Available |
 
 More lessons, exercises, and projects will be added as the learning path grows.
 
@@ -86,6 +87,12 @@ python-learning-lab/
 │   ├── FileOpenClose.py
 │   ├── FileReadWriteAppend.py
 │   └── ExerciseTranslator.py
+├── Testing/
+│   ├── main.py
+│   ├── exercise.py
+│   ├── test.py
+│   ├── test2.py
+│   └── test_exercise.py
 ├── tools/
 │   └── validate_notebooks.py
 ├── requirements.txt
