@@ -33,6 +33,7 @@ not need prior Python experience.
 | 7 | [Generators](Advanced_Python_Generators.ipynb) | Iterators, `yield`, generator functions, performance | Available |
 | 8 | [Modules and Packages](Modules%20in%20Python/main.py) | Imports, modules, packages, and reusable functions | Available |
 | 9 | [File Input and Output](File_Input_and_Output/FileOpenClose.py) | Reading/writing files, `open`/`close`, `with`, error handling | Available |
+| 10 | [Regular Expressions](Regular_Expressions.ipynb) | `re` module, search/match/findall, patterns, validation | Available |
 
 More lessons, exercises, and projects will be added as the learning path grows.
 
@@ -74,6 +75,7 @@ python-learning-lab/
 ├── Advanced_Python_FunctionalProgramming.ipynb
 ├── Advanced_Python_Decorators.ipynb
 ├── Advanced_Python_Error_Handling.ipynb
+├── Regular_Expressions.ipynb
 ├── Modules in Python/
 │   ├── main.py
 │   ├── utility.py
