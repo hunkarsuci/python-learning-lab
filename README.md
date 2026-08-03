@@ -32,6 +32,7 @@ not need prior Python experience.
 | 6 | [Error Handling](Advanced_Python_Error_Handling.ipynb) | Exceptions, `try`/`except`, `else`, `finally` | Available |
 | 7 | [Generators](Advanced_Python_Generators.ipynb) | Iterators, `yield`, generator functions, performance | Available |
 | 8 | [Modules and Packages](Modules%20in%20Python/main.py) | Imports, modules, packages, and reusable functions | Available |
+| 9 | [File Input and Output](File_Input_and_Output/FileOpenClose.py) | Reading/writing files, `open`/`close`, `with`, error handling | Available |
 
 More lessons, exercises, and projects will be added as the learning path grows.
 
@@ -79,6 +80,10 @@ python-learning-lab/
 │   └── shopping/
 │       └── shopping_more/
 │           └── shopping_cart.py
+├── File_Input_and_Output/
+│   ├── FileOpenClose.py
+│   ├── FileReadWriteAppend.py
+│   └── ExerciseTranslator.py
 ├── tools/
 │   └── validate_notebooks.py
 ├── requirements.txt
