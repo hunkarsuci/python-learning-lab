@@ -101,8 +101,9 @@ python-learning-lab/
 └── LICENSE
 ```
 
-Each lesson is a standalone notebook, making it easy to study the course in
-order or revisit an individual topic.
+Each lesson is a standalone notebook or Python example, making it easy to study
+the course in order or revisit an individual topic. The folders contain small
+runnable programs that reinforce the notebook concepts.
 
 ## Repository checks
 
@@ -110,6 +111,12 @@ The repository includes a dependency-free notebook validator:
 
 ```bash
 python tools/validate_notebooks.py
+```
+
+For the same checks used by GitHub Actions, also compile the validation tool:
+
+```bash
+python -m compileall -q tools
 ```
 
 It checks notebook structure, portable Python kernel metadata, accidental saved
