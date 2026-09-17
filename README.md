@@ -31,12 +31,20 @@ not need prior Python experience.
 | 5 | [Decorators](Advanced_Python_Decorators.ipynb) | Higher-order functions and decorators | Available |
 | 6 | [Error Handling](Advanced_Python_Error_Handling.ipynb) | Exceptions, `try`/`except`, `else`, `finally` | Available |
 | 7 | [Generators](Advanced_Python_Generators.ipynb) | Iterators, `yield`, generator functions, performance | Available |
-| 8 | [Modules and Packages](Modules%20in%20Python/main.py) | Imports, modules, packages, and reusable functions | Available |
+| 8 | [Modules and Packages](Modules%20in%20Python/modules.py) | Imports, modules, packages, and reusable functions | Available |
 | 9 | [File Input and Output](File_Input_and_Output/FileOpenClose.py) | Reading/writing files, `open`/`close`, `with`, error handling | Available |
 | 10 | [Regular Expressions](Regular_Expressions.ipynb) | `re` module, search/match/findall, patterns, validation | Available |
 | 11 | [Testing](Testing/main.py) | `unittest`, test cases, assertions, `setUp`/`tearDown` | Available |
 
 More lessons, exercises, and projects will be added as the learning path grows.
+
+## Practice materials
+
+Alongside the main curriculum, the repository includes small programs for
+debugging, package imports, file translation, and unit-testing practice. The
+root-level image files (`grey.png`, `sharpen.png`, `smooth.png`, and
+`thumbnail.jpg`) are image-processing outputs that can be inspected alongside
+the other examples.
 
 ## Getting started
 
@@ -69,17 +77,20 @@ with the examples. A few lessons intentionally request keyboard input.
 
 ```text
 python-learning-lab/
-├── Advanced_Python_Generators.ipynb
 ├── Python_Basics.ipynb
 ├── Python_Basics_II.ipynb
 ├── Advanced_Python_OOP.ipynb
 ├── Advanced_Python_FunctionalProgramming.ipynb
 ├── Advanced_Python_Decorators.ipynb
 ├── Advanced_Python_Error_Handling.ipynb
+├── Advanced_Python_Generators.ipynb
 ├── Regular_Expressions.ipynb
 ├── Modules in Python/
-│   ├── main.py
+│   ├── modules.py
 │   ├── utility.py
+│   ├── Debugging.py
+│   ├── randomgame.py
+│   ├── test.ipynb
 │   └── shopping/
 │       └── shopping_more/
 │           └── shopping_cart.py
@@ -95,6 +106,10 @@ python-learning-lab/
 │   └── test_exercise.py
 ├── tools/
 │   └── validate_notebooks.py
+├── grey.png
+├── sharpen.png
+├── smooth.png
+├── thumbnail.jpg
 ├── requirements.txt
 ├── CONTRIBUTING.md
 ├── CODE_OF_CONDUCT.md
